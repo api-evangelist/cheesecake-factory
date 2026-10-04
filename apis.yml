@@ -1,6 +1,11 @@
 aid: cheesecake-factory
 url: https://raw.githubusercontent.com/api-evangelist/cheesecake-factory/refs/heads/main/apis.yml
 name: Cheesecake Factory
+tags:
+- Restaurant
+- Casual Dining
+- Dining
+- Fortune 1000
 type: Index
 deliveryModel:
   model: unknown
